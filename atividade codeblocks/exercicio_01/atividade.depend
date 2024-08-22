@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1713563563 source:c:\users\fatec-dsm1\desktop\ana\alg1\atividade\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+

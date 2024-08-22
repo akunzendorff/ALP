@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1713568233 source:c:\users\fatec-dsm1\desktop\ana\alg1\atividade codeblocks\exercicio_10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+

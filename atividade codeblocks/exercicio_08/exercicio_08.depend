@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1713567012 source:c:\users\fatec-dsm1\desktop\ana\alg1\exercicio_08\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
