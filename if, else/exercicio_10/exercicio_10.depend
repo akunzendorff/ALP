@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1713643984 source:d:\ana\alg1\if, else\exercicio_10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
